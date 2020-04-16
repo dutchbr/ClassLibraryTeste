@@ -4,7 +4,11 @@ using System.Text;
 
 namespace ClassLibraryTeste.Classes
 {
-    class Caches
+    private class Caches
     {
+        private string Nome { get; set; }
+
+
+
     }
 }
